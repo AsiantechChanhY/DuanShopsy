@@ -7,6 +7,12 @@
     <string name="updating">Updating</string>
     <string name="pleasewait">Please Wait...</string>
 
+    <!-- Dispute Open order page -->
+    <string name="dispute_order_label_orderNo">Order No :</string>
+    <string name="dispute_order_label_Buyer">Buyer :</string>
+    <string name="dispute_order_label_claimAmount">Claim Amount :</string>
+    <string name="dispute_order_open_label_empty">No message available here</string>
+
     <!-- cart menu options -->
     <string name="cart_label_menu_removeitem">Remove Items</string>
     <string name="cart_label_menu_visitshop">Visit Shop</string>
