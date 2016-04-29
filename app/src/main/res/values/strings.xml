@@ -1,0 +1,222 @@
+<resources>
+    <string name="app_name">Shopsy</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="description">Description</string>
+    <string name="context_menu">Context Menu</string>
+    <string name="updating">Updating</string>
+    <string name="pleasewait">Please Wait...</string>
+
+    <!-- cart menu options -->
+    <string name="cart_label_menu_removeitem">Remove Items</string>
+    <string name="cart_label_menu_visitshop">Visit Shop</string>
+
+    <!-- Activity feed -->
+    <string name="signinfeeddata1">Sign in to favourite items,and</string>
+    <string name="signinfeeddata2">customize your own personal feed.</string>
+    <string name="takeminutefeeddata">It will just take a minute.</string>
+    <string name="signinfeeddata3">Sign In</string>
+    <string name="nofeeddata">No Feed Available</string>
+    <string name="ideadata">Looking for ideas</string>
+    <string name="seetrendingdata">See Trending items</string>
+
+    <!-- Lodaing data -->
+    <string name="loading_preparing_data1">Preparing your shopping</string>
+    <string name="loading_preparing_data2">experience</string>
+
+    <!-- No internet data -->
+    <string name="nointernet_data">No intenet connection</string>
+
+    <!-- Favourite Popup -->
+    <string name="favpopup_text1">Sign in to save favorites</string>
+    <string name="favpopup_registertext">Register</string>
+    <string name="favpopup_signintext">Sign In</string>
+    <string name="favpopup_googleplustext">Continue with Google</string>
+    <string name="favpopup_facebooktext">Continue with FaceBook</string>
+
+    <!-- Activity Tab layout -->
+    <string name="activiy_tab_noActivity_label">You don\'t have any activity yet</string>
+    <string name="activiy_tab_youritem_label">Your Items</string>
+    <string name="activiy_tab_addproducts_label">Add Products</string>
+    <string name="activiy_tab_reviews_label">Reviews</string>
+    <string name="activiy_tab_orders_label">Orders</string>
+    <string name="activiy_tab_dispute_label">Dispute</string>
+    <string name="activiy_tab_conversation_label">Conversation</string>
+
+    <!-- add_item1 -->
+    <string name="aboutitem"> ABOUT ITEM</string>
+    <string name="whomade"> Who made this item?</string>
+    <string name="idid"> I did</string>
+    <string name="another"> Another company or person</string>
+    <string name="amemberofmyshop"> A member of my shop</string>
+
+    <!-- add_item2 -->
+    <string name="what"> What is it?</string>
+    <string name="afinishedproduct"> A finished product</string>
+    <string name="asupplyortool"> A supply or tool</string>
+
+    <!-- add_item3 -->
+    <string name="whendid"> When did you make it?</string>
+    <string name="madetoordr"> Made To Order</string>
+
+    <!-- add_item-final -->
+    <string name="addphotos"> Add Photos</string>
+    <string name="conveytheshape"> Convey the shape,color,size and texture.Try to use natural light and include a great close up.</string>
+    <string name="itmtitle"> Item Title</string>
+    <string name="giveyourliting"> Give your listing a descriptive headline</string>
+    <string name="price">Price</string>
+    <string name="hundrd">$</string>
+    <string name="qunantity">Quantity</string>
+    <string name="one"> 1</string>
+    <string name="androidgoogle">android google ios phone mobile data computer.</string>
+    <string name="shipping">Shipping</string>
+    <string name="addashiping">add a shipping profile or create a new one.</string>
+    <string name="helpbuyers"> Help buyers to find your item</string>
+    <string name="usetheseoptional"> Use these optional fields to help buyers search for your item.</string>
+    <string name="addtags">Add Tags</string>
+    <string name="addupto">Add upto 13 tags.</string>
+    <string name="addmateril">Add Materials</string>
+    <string name="adduptometrial"> Add upto 13 materials used in your item.</string>
+    <string name="typeandcategories">Type and Categories</string>
+    <string name="finishdproduct">FINISHED PRODUCT</string>
+    <string name="madeeby">Made by </string>
+    <string name="me">me</string>
+    <string name="madetoorder">Made to Order</string>
+    <string name="accessories"> Accessories</string>
+    <string name="grater"> ></string>
+    <string name="child">child</string>
+    <string name="apron">Apron</string>
+    <string name="manage">MANAGE</string>
+    <string name="share">SHARE</string>
+
+    <!-- aad_item_photo -->
+    <string name="addphoto">Add Photo</string>
+    <string name="doublequotes">""</string>
+
+    <!-- add_item_shippingprofile -->
+    <string name="newshipingprofile">NEW SHIPPING PROFILE</string>
+    <string name="shipingprodetil">Shipping Profile Details</string>
+    <string name="tittle">tittle</string>
+    <string name="timee">time</string>
+    <string name="from">From</string>
+    <string name="dest">Dest</string>
+    <string name="cost">cost</string>
+    <string name="anothercost">another cost</string>
+    <string name="createprofile">Create a Shipping Profile</string>
+    <string name="createshipingpro">Create a shipping profile and add  it to  your listing item</string>
+
+    <!-- add_item_shipingprofile_detail -->
+    <string name="profiletitle">PROFILE TITLE</string>
+    <string name="processtime">PROCESSING TIME</string>
+    <string name="shipsfrom">SHIPS FROM</string>
+    <string name="shipsto">SHIPS TO</string>
+    <string name="destinations">DESTINATION</string>
+    <string name="shipingcost">SHIPPING COST</string>
+    <string name="wtitem">WITH ANOTHER ITEM</string>
+    <string name="addlocation">Add Location</string>
+
+    <!-- add-material -->
+    <string name="addmaterial">Add Material</string>
+    <string name="done">Done</string>
+
+    <!-- Advance Settings Page -->
+    <string name="advance_settings_label_bandwidth">Bandwidth Mode</string>
+    <string name="advance_settings_label_bandwidth_info">Load low-resoluction pictures. This will make the app load faster and use less data.</string>
+    <string name="advance_settings_label_bandwidth_select">Select Bandwidth Mode</string>
+    <string name="advance_settings_label_bandwidth_auto">Auto</string>
+    <string name="advance_settings_label_bandwidth_high">High</string>
+    <string name="advance_settings_label_bandwidth_low">Low</string>
+    <string name="advance_settings_label_bandwidth_cancel">CANCEL</string>
+    <string name="advance_settings_label_bandwidth_okay">Okay</string>
+
+    <!-- All Shop Product -->
+    <string name="allshop_product_favourite">Favorite</string>
+    <string name="allshop_product_contact">Contact</string>
+    <string name="allshop_product_shopinfo">Shop Info</string>
+
+    <!-- cart Add coupon Dialog -->
+    <string name="cart_label_coupon_insert">Insert Coupon Code</string>
+    <string name="cart_label_coupon_apply">Apply</string>
+    <string name="cart_label_coupon_cancel">Cancel</string>
+    <string name="cart_label_coupon_remove">Remove</string>
+
+    <!-- cart Delete shop Dialog -->
+    <string name="cart_label_dialog_text">Remove this item from cart?</string>
+    <string name="cart_label_dialog_shopdelete">Remove this shop and all items from cart?</string>
+    <string name="cart_label_dialog_no">No</string>
+    <string name="cart_label_dialog_yes">Yes</string>
+
+    <!-- cart header layout -->
+    <string name="cart_label_header">Your Cart</string>
+
+    <!-- cart Page -->
+    <string name="cart_label_readytoship">Ready to ship in:</string>
+    <string name="cart_label_itemtotal">Item Total</string>
+    <string name="cart_label_shipping">Shipping</string>
+    <string name="cart_label_ordertotal">Order Total</string>
+    <string name="cart_label_checkout">CHECK OUT</string>
+    <string name="cart_label_howyou_will_pay">How You\'ll Pay</string>
+    <string name="cart_label_addcoupon_code">Add a coupon code</string>
+    <string name="cart_label_add_note">Add optional note to seller</string>
+    <string name="cart_label_quantity">Quantity</string>
+    <string name="label_cart_empty">Cart is Empty</string>
+
+    <!-- Category -->
+    <string name="cateroryheader_title">All Categories</string>
+    <string name="label_caterory_empty">No Categories Found</string>
+
+    <!-- conversation chat popup -->
+    <string name="chat_popup_label_title">New conversation with</string>
+    <string name="chat_popup_label_subject">Subject</string>
+    <string name="chat_popup_label_message">Message</string>
+    <string name="chat_popup_label_send">Send</string>
+    <string name="chat_popup_label_sending">Sending...</string>
+    <string name="chat_popup_label_send_successfully">Sent Successfully</string>
+
+    <!-- conversation layout -->
+    <string name="label_conversation_empty">No Conversation Available</string>
+    <string name="label_conversation_morereplies">more replies</string>
+
+    <!-- Stats Tab layout -->
+    <string name="stats_label_thisMonth">This Month</string>
+    <string name="stats_label_today">Today</string>
+    <string name="stats_label_last7days">Last 7 days</string>
+    <string name="stats_label_week">Week</string>
+    <string name="stats_label_last30days">Last 30 days</string>
+    <string name="stats_label_viewall">View All</string>
+    <string name="stats_label_tax">Tax</string>
+    <string name="stats_label_favorites">Favorites</string>
+    <string name="stats_label_revenue">Revenue</string>
+    <string name="stats_label_orders">Orders</string>
+    <string name="stats_label_empty_novalue">---</string>
+    <string name="stats_label_loading">Please Wait....</string>
+
+    <!-- Detail page -->
+    <string name="detail_label_quantity">Quantity</string>
+    <string name="detail_label_size">Size</string>
+    <string name="detail_label_color">Color</string>
+    <string name="detail_label_select_size">Select Size</string>
+    <string name="detail_label_select_color">Select Color</string>
+    <string name="detail_label_reviews">Reviews</string>
+    <string name="detail_label_seeallreviews">See All Reviews</string>
+    <string name="detail_label_item_overview">Item Overview</string>
+    <string name="detail_label_item_details">Item Details</string>
+    <string name="detail_label_shipping">Shipping and Payment</string>
+    <string name="detail_label_addtocart">Add to Cart</string>
+    <string name="detail_label_addedtocart">Added to Cart</string>
+    <string name="detail_label_paymentmethod">Payment Methods</string>
+    <string name="detail_label_shippingto">Shipping To</string>
+    <string name="detail_label_cost">Cost</string>
+    <string name="detail_label_withanotheritem">With Another</string>
+    <string name="detail_label_readytoship">Ready to Ship in</string>
+    <string name="detail_label_businessdays">business days</string>
+    <string name="detail_label_policies">Policies</string>
+    <string name="detail_label_visitshop">Visit Shop</string>
+    <string name="detail_label_madeby_caps">MADE BY</string>
+    <string name="detail_label_views">Views</string>
+    <string name="detail_label_favorites">Favorites</string>
+    <string name="detail_label_listedon">This item was listed on</string>
+    <string name="detail_label_reviewby">Review by</string>
+    <string name="detail_label_askquestion">Ask a Question</string>
+
+</resources>
