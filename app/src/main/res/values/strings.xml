@@ -30,6 +30,11 @@
     <string name="loading_preparing_data1">Preparing your shopping</string>
     <string name="loading_preparing_data2">experience</string>
 
+    <!-- Forgot Popup -->
+    <string name="Forgotpopup_text1">Forgot Password</string>
+    <string name="email_hint">Enter Email</string>
+    <string name="forgot_submit">Submit</string>
+
     <!-- No internet data -->
     <string name="nointernet_data">No intenet connection</string>
 

@@ -32,11 +32,11 @@
         "source": "/home/chanhy/Desktop/Shopsy-master/Material_ContextMenu_Library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/home/chanhy/Desktop/Shopsy-master/Material_ContextMenu_Library/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
-        "source": "/home/chanhy/Desktop/Shopsy-master/Material_ContextMenu_Library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_out_bottom.xml"
-    },
-    {
         "merged": "/home/chanhy/Desktop/Shopsy-master/Material_ContextMenu_Library/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
         "source": "/home/chanhy/Desktop/Shopsy-master/Material_ContextMenu_Library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/chanhy/Desktop/Shopsy-master/Material_ContextMenu_Library/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/home/chanhy/Desktop/Shopsy-master/Material_ContextMenu_Library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/anim/abc_slide_out_bottom.xml"
     }
 ]
