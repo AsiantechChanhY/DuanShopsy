@@ -30,6 +30,110 @@
     <string name="loading_preparing_data1">Preparing your shopping</string>
     <string name="loading_preparing_data2">experience</string>
 
+    <!-- Home Drawer list -->
+    <string name="drawer_list_home_label">Home</string>
+    <string name="drawer_list_trending_label">Trending</string>
+    <string name="drawer_list_feed_label">Activity Feed</string>
+    <string name="drawer_list_conversation_label">Conversation</string>
+    <string name="drawer_list_allshop_label">All Shops</string>
+    <string name="drawer_list_browse_label">Browse</string>
+    <string name="drawer_list_purchases_label">Purchases</string>
+    <string name="drawer_list_settings_label">Settings</string>
+    <string name="drawer_list_openshop_label">Open Shop</string>
+    <string name="drawer_list_myshop_label">My Shop</string>
+    <string name="drawer_list_signin_label">SIGNIN</string>
+
+    <!-- Order Open Tab layout -->
+    <string name="order_open_label_empty">No Orders Found</string>
+    <string name="order_open_label_quantity">Quantity :</string>
+    <string name="order_open_label_orderid">OrderId :</string>
+    <string name="order_open_label_orderTotal">ORDER TOTAL</string>
+    <string name="order_open_label_status">STATUS</string>
+
+    <!-- order_details_child_adapter -->
+    <string name="shopsyjee">Shopsyy  jhee androiud</string>
+    <string name="quantity">Quantity: </string>
+    <string name="itemtotal">Item Total:</string>
+
+    <!-- Order Detail Manage Order Dialog -->
+    <string name="manage_order_dialog_manageorder">Manage Order</string>
+    <string name="manage_order_dialog_cancel">CANCEL</string>
+    <string name="manage_order_dialog_apply">APPLY</string>
+    <string name="manage_order_dialog_applying">Applying...</string>
+    <string name="manage_order_dialog_shipped">Shipped</string>
+    <string name="manage_order_dialog_delivered">Delivered</string>
+    <string name="manage_order_dialog_cancelled">Cancelled</string>
+
+    <!-- Order Detail layout -->
+    <string name="order_detail_label_manageOrder">Manage Order</string>
+    <string name="order_detail_label_solveDispute">Solved Dispute</string>
+    <string name="order_detail_label_paid">PAID</string>
+    <string name="order_detail_label_shipped">SHIPPED</string>
+    <string name="order_detail_label_processed">PROCESSED</string>
+    <string name="order_detail_label_ordertotal">ORDER TOTAL</string>
+    <string name="order_detail_label_orderon">ORDER ON</string>
+    <string name="order_detail_label_buyer">BUYER</string>
+    <string name="order_detail_label_sendmessage">Send a Message</string>
+    <string name="order_detail_label_itemtotal">ITEM TOTAL</string>
+    <string name="order_detail_label_shipping">SHIPPING</string>
+    <string name="order_detail_label_coupondiscount">COUPON DISCOUNT</string>
+    <string name="order_detail_label_giftdiscount">GIFT DISCOUNT</string>
+    <string name="order_detail_label_tax">TAX</string>
+    <string name="order_detail_label_grandtotal">GRAND TOTAL</string>
+    <string name="order_detail_label_totalitem">TOTAL ITEM</string>
+    <string name="order_detail_label_order">Order</string>
+    <string name="order_detail_label_quantity">Quantity :</string>
+    <string name="order_detail_label_price">Price :</string>
+    <string name="order_detail_label_footer_itemTotal">Item Total :</string>
+    <string name="order_detail_label_orderDetail">Order Details</string>
+
+    <!-- popup_addmaterials -->
+    <string name="adddmateril">Add Materials</string>
+
+    <!-- popup-addtag -->
+    <string name="adtags">Add Tags</string>
+
+    <!-- popup_description -->
+    <string name="itmdtils">Item Details</string>
+
+    <!-- popup_itemtitle -->
+    <string name="itmtitl">Item Title</string>
+
+    <!-- popup_ordermanger -->
+    <string name="shipped">Shipped</string>
+    <string name="cancelled">Cancelled</string>
+
+    <string name="manageordr">Manage Order</string>
+    <string name="delivrd">Delivered </string>
+
+    <!-- popup_price -->
+    <string name="signn">USD</string>
+    <string name="matlobr">Materials + Labor + Expenses + Profit = Item Price</string>
+
+    <!-- popup_quantity -->
+    <string name="howmany">How many do you have to sell ?$</string>
+    <string name="addquentity">How many do you sale?</string>
+
+    <!-- Recommended Tab page -->
+    <string name="recommended_label_featuresproducts">Featured Products</string>
+    <string name="recommended_label_featuresshops">Featured shop</string>
+    <string name="recommended_label_topseller">Top Sellers</string>
+    <string name="recommended_label_recentproducts">Recent Products</string>
+    <string name="recommended_label_viewall">View All</string>
+
+    <!-- Server Error data -->
+    <string name="serverError_data">Server Problem</string>
+
+    <!-- disput_closed-adapter -->
+    <string name="orderno">Order No:</string>
+    <string name="numbr">112231341</string>
+    <string name="buyer">Buyer :</string>
+    <string name="disput"> 100.0</string>
+    <string name="disputename">disputename</string>
+    <string name="usd">USD</string>
+    <string name="claimamount">Claim Amount :</string>
+    <!-- same in open-adapter -->
+
     <!-- Forgot Popup -->
     <string name="Forgotpopup_text1">Forgot Password</string>
     <string name="email_hint">Enter Email</string>
