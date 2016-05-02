@@ -80,15 +80,15 @@
         "source": "/home/chanhy/Desktop/Shopsy-master/FacebookSDK_Shopsy/res/drawable-hdpi/com_facebook_button_blue_pressed.9.png"
     },
     {
-        "merged": "/home/chanhy/Desktop/Shopsy-master/FacebookSDK_Shopsy/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_inverse_icon.png",
-        "source": "/home/chanhy/Desktop/Shopsy-master/FacebookSDK_Shopsy/res/drawable-hdpi/com_facebook_inverse_icon.png"
-    },
-    {
         "merged": "/home/chanhy/Desktop/Shopsy-master/FacebookSDK_Shopsy/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png",
         "source": "/home/chanhy/Desktop/Shopsy-master/FacebookSDK_Shopsy/res/drawable-hdpi/com_facebook_tooltip_blue_bottomnub.png"
     },
     {
         "merged": "/home/chanhy/Desktop/Shopsy-master/FacebookSDK_Shopsy/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_button_like_icon_selected.png",
         "source": "/home/chanhy/Desktop/Shopsy-master/FacebookSDK_Shopsy/res/drawable-hdpi/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/home/chanhy/Desktop/Shopsy-master/FacebookSDK_Shopsy/build/intermediates/res/merged/release/drawable-hdpi-v4/com_facebook_inverse_icon.png",
+        "source": "/home/chanhy/Desktop/Shopsy-master/FacebookSDK_Shopsy/res/drawable-hdpi/com_facebook_inverse_icon.png"
     }
 ]

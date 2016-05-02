@@ -132,12 +132,12 @@
         "source": "/home/chanhy/Desktop/Shopsy-master/Material_ContextMenu_Library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/home/chanhy/Desktop/Shopsy-master/Material_ContextMenu_Library/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
-        "source": "/home/chanhy/Desktop/Shopsy-master/Material_ContextMenu_Library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_select_dialog_material.xml"
-    },
-    {
         "merged": "/home/chanhy/Desktop/Shopsy-master/Material_ContextMenu_Library/build/intermediates/res/merged/release/layout/render_type_text.xml",
         "source": "/home/chanhy/Desktop/Shopsy-master/Material_ContextMenu_Library/build/intermediates/exploded-aar/Shopsy-master/ViewPager_AutoSlider_Library/unspecified/res/layout/render_type_text.xml"
+    },
+    {
+        "merged": "/home/chanhy/Desktop/Shopsy-master/Material_ContextMenu_Library/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/home/chanhy/Desktop/Shopsy-master/Material_ContextMenu_Library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/layout/abc_select_dialog_material.xml"
     },
     {
         "merged": "/home/chanhy/Desktop/Shopsy-master/Material_ContextMenu_Library/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",

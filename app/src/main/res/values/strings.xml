@@ -7,6 +7,35 @@
     <string name="updating">Updating</string>
     <string name="pleasewait">Please Wait...</string>
 
+    <!-- Settings Page -->
+    <string name="settings_label_account">Account</string>
+    <string name="settings_label_notification">Notification</string>
+    <string name="settings_label_currency">Currency</string>
+    <string name="settings_label_advancesettings">Advance Settings</string>
+    <string name="settings_label_logout">Logout</string>
+
+    <!-- Shipping Policy Page -->
+    <string name="ship_label_shipping_policies_header">Shop Policies</string>
+    <string name="ship_label_companyname">company name</string>
+    <string name="ship_label_Welcome">Welcome</string>
+    <string name="ship_label_Payment">Payment</string>
+    <string name="ship_label_policyShipping">Shipping</string>
+    <string name="ship_label_refund">Refunds and Exchanges</string>
+    <string name="ship_label_additionalinfo">Additional Information</string>
+    <string name="ship_label_sellerinfo">Seller Information</string>
+
+    <!-- Recommended Tab page -->
+    <string name="picks_label_categories">Categories</string>
+    <string name="picks_label_recentproducts">Recent Products</string>
+
+    <!-- Sign in Popup -->
+    <string name="signinpopup_text1">Sign In</string>
+    <string name="signinpopup_email_hint">Email or Username</string>
+    <string name="signinpopup_pwd_hint">Password</string>
+    <string name="signinpopup_forgot_pwd">Forgot password?</string>
+    <string name="signinpopup_account">Don\'t have an account?</string>
+    <string name="signinpopup_register">Register</string>
+
     <!-- Dispute Open order page -->
     <string name="dispute_order_label_orderNo">Order No :</string>
     <string name="dispute_order_label_Buyer">Buyer :</string>
@@ -123,6 +152,43 @@
 
     <!-- Server Error data -->
     <string name="serverError_data">Server Problem</string>
+
+    <!-- register Popup -->
+    <string name="registerpopup_text1">Register</string>
+    <string name="registerpopup_firstname_hint">First Name</string>
+    <string name="registerpopup_lastname_hint">Last Name</string>
+    <string name="registerpopup_email">Email</string>
+    <string name="registerpopup_pwd">Password</string>
+    <string name="registerpopup_confirm_pwd">Confirm Password</string>
+    <string name="registerpopup_username_hint">Username</string>
+    <string name="registerpopup_terms_text1">By registering,you confirm that you accept our</string>
+    <string name="registerpopup_terms_text2">Terms of Use</string>
+    <string name="registerpopup_terms_text3">and</string>
+    <string name="registerpopup_terms_text4">Privacy Policy</string>
+    <string name="registerpopup_account">Have an account?</string>
+    <string name="registerpopup_signin">Sign In</string>
+
+    <!-- Reviews Report Dialog layout -->
+    <string name="label_report_dialog_reviews">Report this review</string>
+    <string name="label_report_dialog_report">Report</string>
+    <string name="label_report_dialog_message">Type your message here</string>
+
+    <!-- dispute_discussion_adapter_parent -->
+    <string name="postrname">Poster Name</string>
+    <string name="msg">Msg</string>
+    <string name="date">date</string>
+
+    <!-- Reviews layout -->
+    <string name="label_reviews_empty">No Reviews Found</string>
+    <string name="label_report_review">Report this review</string>
+
+
+    <!-- search page -->
+    <string name="search_label_hint">Search</string>
+
+    <!-- See all review Page -->
+    <string name="seeall_review_label_header_itemreview">Item Reviews</string>
+    <string name="seeall_review_label_review">Reviews</string>
 
     <!-- disput_closed-adapter -->
     <string name="orderno">Order No:</string>
