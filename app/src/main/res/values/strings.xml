@@ -36,6 +36,49 @@
     <string name="signinpopup_account">Don\'t have an account?</string>
     <string name="signinpopup_register">Register</string>
 
+    <!-- Sub Category Product -->
+    <string name="subcaterory_product_filter">FILTER</string>
+    <string name="subcaterory_product_sort">SORT</string>
+
+    <!-- Sub Category Product Sort Dialog -->
+    <string name="subcaterory_product_sort_dialog_sorting">Sorting</string>
+    <string name="subcaterory_product_sort_dialog_cancel">CANCEL</string>
+    <string name="subcaterory_product_sort_dialog_mostrecent">Most Recent</string>
+    <string name="subcaterory_product_sort_dialog_highprice">Highest Price</string>
+    <string name="subcaterory_product_sort_dialog_lowprice">Lowest Price</string>
+    <string name="subcaterory_product_sort_dialog_apply">Apply</string>
+
+    <!-- UserProfile page -->
+    <string name="userprofile_following_label">FOLLOWING</string>
+    <string name="userprofile_follower_label">FOLLOWERS</string>
+    <string name="userprofile_favoriteitem_label">FAVORITE ITEMS</string>
+    <string name="userprofile_itemlove_label">Items I Love</string>
+    <string name="userprofile_items_label">items</string>
+    <string name="userprofile_favoriteshop_label">FAVORITE SHOPS</string>
+    <string name="userprofile_seeshops_label">See all favorite shops</string>
+    <string name="userprofile_about_label">ABOUT</string>
+    <string name="userprofile_joined_label">Joined on</string>
+
+    <!-- Your Items layout -->
+    <string name="label_youritem_empty">No Items Available</string>
+    <string name="label_youritem_instock">In Stock :</string>
+    <string name="label_youritem_search">Search your items</string>
+
+    <!-- Your Item Fiter Layout -->
+    <string name="filterall">All</string>
+    <string name="filteractive">Active</string>
+    <string name="filterdraft">Draft</string>
+    <string name="filterexpired">Expired</string>
+    <string name="filtersoldoute">Soldout</string>
+    <string name="filterinactive">Inactive</string>
+    <string name="morefilter">MORE FILTERS</string>
+    <string name="filterfeatuereitems">Feature items</string>
+    <string name="filterfeatuereitemsheading">ITEM STATUS</string>
+    <string name="sortby">SORT BY</string>
+    <string name="label_youritem_filter_apply">APPLY</string>
+    <string name="label_youritem_filter">Filter</string>
+
+
     <!-- Dispute Open order page -->
     <string name="dispute_order_label_orderNo">Order No :</string>
     <string name="dispute_order_label_Buyer">Buyer :</string>

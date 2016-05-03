@@ -12,7 +12,7 @@ public class SplashPage extends Activity {
 	protected void onCreate(Bundle savedInstanceState) 
 	{
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.recommended_tab);
+		setContentView(R.layout.subcategories_gridview_header);
 
 	}
 }
